@@ -16,7 +16,7 @@ const faqs = [
   },
   {
     q: "Is there a contract?",
-    a: "No long-term contracts. AlbaVoice is a monthly rolling subscription. You can cancel at any time."
+    a: "No long-term contracts. NessDial is a monthly rolling subscription. You can cancel at any time."
   }
 ];
 
