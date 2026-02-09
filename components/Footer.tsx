@@ -13,7 +13,7 @@ const Footer: React.FC<FooterProps> = ({ onGetStarted, onNavigate }) => {
        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
           <div className="bg-scotBlue rounded-2xl p-8 md:p-12 flex flex-col md:flex-row items-center justify-between text-center md:text-left shadow-2xl">
               <div className="mb-6 md:mb-0">
-                  <h3 className="text-2xl md:text-3xl font-bold mb-2">Ready to modernize your business?</h3>
+                  <h3 className="text-2xl md:text-3xl font-bold mb-2">Ready to modernise your business?</h3>
                   <p className="text-blue-100 text-lg">Stop losing leads today. Set up takes less than 5 minutes.</p>
               </div>
               <button 
