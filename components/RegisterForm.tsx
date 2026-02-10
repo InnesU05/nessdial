@@ -5,7 +5,7 @@ import { CheckCircle, Loader2, AlertCircle, MapPin, Calendar, PoundSterling, Hel
 // INSTRUCTIONS:
 // 1. Create a "Custom Webhook" in Make.com (or Zapier/n8n)
 // 2. Paste the Webhook URL below inside the quotes.
-const WEBHOOK_URL = ""; 
+const WEBHOOK_URL = "https://hook.eu1.make.com/7412fyzkpb7374a7n14pj9llohj48n92"; 
 
 interface RegisterFormProps {
   selectedTier: Tier;
